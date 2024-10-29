@@ -10,7 +10,7 @@ Neste desafio, você será responsável por modelar e diagramar a representaçã
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-###Diagrama UML (Mermaid)
+### Diagrama UML (Mermaid)
 ```mermaid
 classDiagram
     class ReprodutorMusical {
